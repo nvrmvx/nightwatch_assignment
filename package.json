@@ -1,0 +1,19 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {
+    "nightwatch": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node nightwatch -a task"
+  },
+  "author": "enzi-compte",
+  "license": "ISC"
+}
